@@ -1,0 +1,77 @@
+*body {
+	width: 960px;
+}
+
+header {
+	margin top: 0;
+	background-color: #4aaaa5;
+	height: 10%;
+	border-color: #cccccc;
+
+}
+
+h1 { color: #ffffff;
+
+
+}
+
+#sub {
+	color: black;
+}
+
+
+ul {
+
+}
+
+li {
+
+
+}
+
+a {
+
+}
+
+#head1 {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	width: 650px;
+
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	float: left;
+
+}
+
+p {
+
+}
+
+
+br {
+
+}
+
+
+#sidebar {
+	width: 270px;
+
+
+}
+
+h4 {
+
+}
+
+.links {
+
+}
+
+footer {
+ background-color: #666666; 
+
+}
