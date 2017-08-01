@@ -113,7 +113,7 @@ h1 {
 }
 
 
-
+/*
 #head3 {
 
     background-color: white;
@@ -126,7 +126,7 @@ h1 {
 	float: left;
 
 }
-
+*/
 
 
 
@@ -176,9 +176,10 @@ p 	{
 	right: 166px;
 	background-color: white;
 	padding: 10px;
-	width: 272px;
+	/*width: 272px;*/
 	height: 137px;
 	text-align: center;
+	
 
 
 }
@@ -261,6 +262,60 @@ form {
     top: 105px;
     margin-right: 22px;
 }
+
+
+
+@media only screen and (max-width: 980px) {
+
+		header { 
+		width: 100%;
+		 }
+		 #name {
+		width: 100%;
+		 }
+		
+		#navigation {
+			width: 100%;
+		}
+
+		#head2 {
+			width: 20%;
+
+		}
+
+		hr {
+			width: 20%
+		}
+		h1 {
+			width: 20%;
+		}
+		#pic {
+		width: 100%;
+		}
+
+		p {
+		width: 20%;
+		}
+
+		#social {
+		width: 100%;
+		}
+
+
+		#connect {
+		width: 100%;
+		}
+
+		h6 {
+			width: 100%;
+		}
+
+		
+}
+
+
+
+
 
 
 
